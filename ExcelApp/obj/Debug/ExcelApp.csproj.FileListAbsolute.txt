@@ -1,0 +1,6 @@
+D:\Workplace\samples\ExcelApp\ExcelApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Workplace\samples\ExcelApp\ExcelApp\obj\Debug\ExcelApp.csproj.ResolveComReference.cache
+D:\Workplace\samples\ExcelApp\ExcelApp\bin\ExcelApp.dll
+D:\Workplace\samples\ExcelApp\ExcelApp\bin\ExcelApp.pdb
+D:\Workplace\samples\ExcelApp\ExcelApp\obj\Debug\ExcelApp.dll
+D:\Workplace\samples\ExcelApp\ExcelApp\obj\Debug\ExcelApp.pdb
